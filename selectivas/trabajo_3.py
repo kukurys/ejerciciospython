@@ -1,0 +1,14 @@
+#algoritmo basado en el valor de una compra 
+compra=50000
+descuento=0.10
+descuentoo=0.05
+
+total=compra-(compra*descuento)
+if compra>=compra
+print(f"el descuento es:{compra*descuento}" )
+
+elif compra<compra
+print(f"el descuento sera:{compra*descuentoo}")
+elif compra=0 
+print(f"no tendra descuento ")
+else
