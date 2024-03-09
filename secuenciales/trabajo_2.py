@@ -3,6 +3,7 @@
 
 valor_compra=0
 descuento=0
+x=int (input ("digite el valor de la variable valor_compra:"))
 if valor_compra==0:
     print("no tendra descuento")
 elif valor_compra<50000:

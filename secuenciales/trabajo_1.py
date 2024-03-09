@@ -2,6 +2,8 @@
 x=2
 y=3
 #recuperar las dos variables 
+x=int (input ("digite el valor de la variable x:"))
+y=int(input("digite el valor de la variable y:"))
 suma=x+y
 resta=x-y
 producto=x*y 
